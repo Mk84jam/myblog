@@ -15,6 +15,7 @@
 
 .App-header {
   background-image: url('./images/blogMain.jpg');
+  background-size: cover;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
